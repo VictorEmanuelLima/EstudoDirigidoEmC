@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Victor Emanuel Sousa 2021 Lima ig: vic_lima.f.q
 int main(){
     float F, C;
 

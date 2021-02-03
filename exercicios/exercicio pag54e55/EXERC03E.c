@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Victor Emanuel Sousa 2021 Lima ig: vic_lima.f.q
 int main(){
     float V, R, A;
 
@@ -9,7 +10,7 @@ int main(){
 
     V = 3.14159 * R * R * A;
 
-    printf("Volume = %f m³.\n", V);
+    printf("Volume = %f mï¿½.\n", V);
 
     system("pause");
     return 0;
