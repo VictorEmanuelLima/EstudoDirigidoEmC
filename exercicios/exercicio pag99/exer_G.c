@@ -1,5 +1,6 @@
 #include <stdio.h>
-//Victor Emanuel Sousa Lima - INF1 17/01/2021
+//Victor Emanuel Sousa Lima - 17/01/2021
+//ig: vic_lima.f.q
 int main(){
     int n = 1, antes = 0, atual = 1;
     while(n <= 15){

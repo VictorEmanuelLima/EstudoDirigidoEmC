@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
-// Victor Emanuel Sousa Lima - INF 1 16/01/2021
+// Victor Emanuel Sousa Lima - 16/01/2021
+//ig: vic_lima.f.q
 int main(){
     int A, B, C;
     float r1, r2, delta;
@@ -8,7 +9,7 @@ int main(){
     printf("Digite B: "); scanf("%d", &B);
     printf("Digite C: "); scanf("%d", &C);
     if (A == 0){
-        printf("Nao é uma equacao do segundo grau. \n");
+        printf("Nao ï¿½ uma equacao do segundo grau. \n");
 	}
     else{
         delta = B * B - 4 * A * C;

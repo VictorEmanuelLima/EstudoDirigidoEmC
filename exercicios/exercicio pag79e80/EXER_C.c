@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// Victor Emanuel Sousa Lima - INF 1 16/01/2021
+// Victor Emanuel Sousa Lima - 16/01/2021
+//ig: vic_lima.f.q
 int main(){
     float n1, n2, n3, n4, exame, media;
     printf("Digite nota 1: "); scanf("%f", &n1);

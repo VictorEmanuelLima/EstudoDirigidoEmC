@@ -1,5 +1,6 @@
 #include <stdio.h>
-// Victor Emanuel Sousa Lima - INF 1 16/01/2021
+// Victor Emanuel Sousa Lima - 16/01/2021
+//ig: vic_lima.f.q
 int main(){
     int A, B, C;
     printf("Digite A: "); scanf("%d", &A);
